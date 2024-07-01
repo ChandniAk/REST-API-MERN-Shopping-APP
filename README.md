@@ -9,7 +9,7 @@
 6. Environment Variables
 
 # Introduction
-This is a full-stack shopping application built using the MERN stack. It includes a RESTful API for managing products, users, orders, and other features necessary for a functional e-commerce platform.
+This is a full-stack shopping application built using MERN stack. It includes a RESTful API for managing products, users, orders, and other features necessary for a functional e-commerce platform.
 
 # Features
 1. User authentication and authorization
