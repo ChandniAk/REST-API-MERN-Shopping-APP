@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 
 # Clone the repository
 ```
-git clone https://github.com/yourusername/new-mern-shopping-app.git
+git clone https://github.com/ChandniAK/REST-API-MERN-Shopping-APP.git
 cd new-mern-shopping-app
 Install dependencies
 **For the backend:**
