@@ -1,3 +1,5 @@
+<img width="798" alt="image" src="https://github.com/ChandniAk/REST-API-MERN-Shopping-APP/assets/34007005/a3cb7a7d-6b44-4ba8-b11d-ba45abe989de">
+
 # Table of Contents
 1. Introduction
 2. Features
@@ -49,5 +51,7 @@ npm run dev
 npm start
 # Usage
 After installing the dependencies and setting up the environment variables, you can start the development server using the above commands. The app will be available at http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
-
+# Contributors:
+1. Chandni Akbar
+2. Rajat Butola
 
